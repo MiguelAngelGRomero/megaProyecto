@@ -1,0 +1,81 @@
+body{
+    background-color: lightcyan
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+/*
+4 puntos de quiebre mas comunes
+Dispositivos pequenos 600px ancho width
+Dispositivos medianos desde 601px - 1024px
+Dispositivos Grandes 1025px - 1440px
+Dispositivos Extra Grandes de 1441px en adelante
+*/
+
+@media(max-width: 600px){
+    .navbar-nav{
+        flex-direction: column;
+    }
+    .card{
+        margin: 1rem;
+    }
+    .card-title{
+        font-size: 1.25rem;
+    }
+
+    .card-text{
+        font-size: 1rem;
+    }
+}
+
+@media(min-width: 601px) and (max-width: 1024px){
+    .navbar-nav{
+        flex-direction: row;
+    }
+    .card{
+        margin-bottom: 1.5rem;
+    }
+    .card-title{
+        font-size: 1.5rem;
+    }
+
+    .card-text{
+        font-size: 1rem;
+    }
+}
+
+@media(min-width: 1025px) and (max-width: 1440px){
+    .container{
+        font-size: 1rem;
+    }
+
+    .card{
+        margin-bottom: 2px;
+    }
+    .card-title{
+        font-size: 1rem;
+    }
+    .card-text{
+        font-size: 1rem;
+    }
+}
+
+@media(min-width: 1441px){
+    .container{
+        font-size: 1rem;
+    }
+
+    .card{
+        margin-bottom: 2px;
+    }
+    .card-title{
+        font-size: 2rem;
+    }
+    .card-text{
+        font-size: 1rem;
+    }
+    
+}
