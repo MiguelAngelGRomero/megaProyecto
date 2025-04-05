@@ -1,11 +1,67 @@
-body{
-    background-color: lightcyan
+
+
+/*Clases*/
+.titulo{
+    text-align: left;
 }
 
-.card img {
-    height: 200px;
-    object-fit: cover;
+.divBotones{
+    text-align: center;
 }
+
+.divContenido{
+    position: relative; /*Activa left*/
+    left: 25px; /*posicion*/
+    background-color: #1e1e1e;
+    border-radius: 12px; /*redondear bordes*/
+    padding: 20px;
+    width: 290px;
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    display: inline-block;
+}
+
+.imagen{
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    border-radius: 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: .5px 1px;
+}
+
+p{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button{
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 10px 35px;
+    margin: 8px 6px;
+    border-radius: 8px;
+    border: none;
+}
+
+button:hover{
+    border: solid;
+    background-color: white;
+    color: black;
+}
+
+
 
 /*
 4 puntos de quiebre mas comunes
