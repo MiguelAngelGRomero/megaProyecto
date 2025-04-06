@@ -13,7 +13,7 @@ Este es un proyecto web que simula una plataforma de streaming con navegación e
 
 ## 📸 Vista previa
 
-
+![Hubes](img/hubes.png)
 
 
 ## ⚙️ Tecnologías usadas
