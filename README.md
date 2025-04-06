@@ -10,6 +10,21 @@ Este es un proyecto web que simula una plataforma de streaming con navegación e
 - Separación del contenido por tipo en archivos JSON
 - Estilo limpio y responsivo
 
+
+## 📸 Vista previa
+
+
+
+
+## ⚙️ Tecnologías usadas
+- HTML
+
+- CSS
+
+- JavaScript
+
+- JSON
+
 ## 📁 Contenido JSON
 
 El contenido multimedia se divide en tres archivos:
@@ -17,23 +32,9 @@ El contenido multimedia se divide en tres archivos:
 - `series.json`: Contiene un listado de series.
 - `peliculas.json`: Contiene un listado de películas.
 
-Formato de los elementos:
+## Formato de los elementos:
 ```json
 {
   "titulo": "Nombre del contenido",
   "imagen": "./img/images.jpeg"
 }
-
-📸 Vista previa
-
-![alt text](image.png)
-
-
-⚙️ Tecnologías usadas
-HTML
-
-CSS
-
-JavaScript
-
-JSON
