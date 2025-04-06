@@ -1,5 +1,3 @@
-
-
 /*Clases*/
 .titulo{
     text-align: left;
@@ -14,8 +12,8 @@
     left: 25px; /*posicion*/
     background-color: #1e1e1e;
     border-radius: 12px; /*redondear bordes*/
-    padding: 20px;
-    width: 290px;
+    padding: 10px;
+    width: 300px;
     color: white;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
