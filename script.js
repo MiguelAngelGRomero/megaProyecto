@@ -21,6 +21,7 @@ function cargarPeliculas() {
         });
 }
 
+
 function meGusta(titulo){   //Te muestra en una alerta que te gusto el nombre de la serie
     alert(`¡Te gustó ${titulo}!`);
 }
