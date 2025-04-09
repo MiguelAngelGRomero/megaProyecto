@@ -7,7 +7,9 @@ function cargarPeliculas() {
                 let div = document.createElement("div"); //se crea el elemento div con las imagenes y botones
                 div.className = "divContenido";
                 div.innerHTML = `
-                    <img class="imagen" src="${item.imagen}" alt="cargando...">
+                    
+                        <img class="imagen" src="${item.imagen}" alt="cargando...">
+                    
                     <p>${item.titulo}</p>
                     <button onclick="meGusta('${item.titulo}')">Me gusta</button>
                     <button onClick="ocultar(this)">Ocultar</button>

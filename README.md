@@ -38,3 +38,14 @@ El contenido multimedia se divide en tres archivos:
   "titulo": "Nombre del contenido",
   "imagen": "./img/images.jpeg"
 }
+
+## Que hice mal?
+
+- No implementar un login mas 
+- Manejar los cambios en la rama Main
+- No implementar la vista de las peliculas
+
+## Que hice bien?
+
+- Implementar una vista agradable de las peliculas
+- Implementar botones reactivos
