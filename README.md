@@ -1,4 +1,4 @@
-# megaProyecto
+# megaProyecto = Sprint 1 
 
 Este es un proyecto web que simula una plataforma de streaming con navegación entre secciones como **Películas**,
 **Series**, **Favoritos** y **Configuración**.
@@ -16,16 +16,17 @@ Este es un proyecto web que simula una plataforma de streaming con navegación e
 ![Hubes](img/hubes.png)
 
 
-## Que hice mal?
+## Que hice mal? ❌
 
-- No implementar un login mas 
-- Manejar los cambios en la rama Main
-- No implementar la vista de las peliculas
+- No implementar un login mas ❎
+- Manejar los cambios en la rama Main ❎
+- No implementar la vista de las peliculas ❎
 
-## Que hice bien?
+## Que hice bien? ✔️
 
-- Implementar una vista agradable de las peliculas
-- Implementar botones reactivos
+- Implementar una vista agradable de las peliculas ✅
+- Implementar botones reactivos ✅
+- Buenas practicas ✅
 
 
 
