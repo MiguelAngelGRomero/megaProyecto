@@ -73,8 +73,6 @@ Puedes ejecutar estos archivos en:
 
   ![eliminarPaso2](./Image/del2.png)
 
-  ![]
-
 ---
 
 ## ⚙️ Tecnologías usadas
