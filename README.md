@@ -43,6 +43,37 @@ Puedes ejecutar estos archivos en:
 - **FrmLibro**  
   ![FrmLibro](./Image/frmLibro.png)
 
+- **Funcionamiento**
+
+  ![FuncCatalogo](./Image/funCat.png)
+
+  ![FuncLeiste](./Image/leiste.png)
+
+  ![FuncQuieroLeer](./Image/quieroLeer.png)
+
+  ![FuncNoGusta](./Image/NoGusta.png)
+
+  ![FuncGenFav](./Image/genFav.png)
+
+  ![FuncLibFav](./Image/libFav.png)
+
+- **Botones Agregar,Modificar,Eliminar**
+
+  ![agregarPaso1](./Image/add1.png)
+
+  ![agregarPaso2](./Image/add2.png)
+  
+  ![agregarPaso3](./Image/add3.png)
+
+  ![editarPaso1](./Image/ed1.png)
+
+  ![editarPaso2](./Image/ed2.png)
+
+  ![eliminarPaso1](./Image/del1.png)
+
+  ![eliminarPaso2](./Image/del2.png)
+
+  ![]
 
 ---
 
